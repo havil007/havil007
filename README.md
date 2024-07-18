@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Informatica, Snowflake, Teradata, SQL**
+- 💬 Ask me about **Snowflake, Teradata, Informatica, SQL**
 
 - 📫 How to reach me **havilratna123@gmail.com**
 
