@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **Python**
-
 - 💬 Ask me about **Snowflake, Teradata, Informatica, SQL**
-
 - 📫 How to reach me **havilratna123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
